@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Mohammad Mauwaz
+Author - Mohammad Mauwaz (Infosys)
